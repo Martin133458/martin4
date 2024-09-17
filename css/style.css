@@ -1,0 +1,16 @@
+#telegramForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: lightblue;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px 0 blue;
+  max-width: 500px;
+  margin: 30px auto;
+}
+#telegramForm input, #telegramForm button {
+  font-family: fantasy;
+  padding: 20px;
+  border-radius: 15px;
+}/*# sourceMappingURL=style.css.map */

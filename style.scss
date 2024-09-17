@@ -1,0 +1,67 @@
+.header {
+
+   // .header__wrapper
+
+   &__wrapper {
+   }
+
+   // .header__logo
+
+   &__logo {
+   }
+
+   // .header__menu
+
+   &__menu {
+   }
+
+   // .header__btn
+
+   &__btn {
+   }
+}
+.hero {
+
+   // .hero__wrapper
+
+   &__wrapper {
+   }
+
+   // .hero__box
+
+   &__box {
+   }
+
+   // .hero__btns
+
+   &__btns {
+   }
+
+   // .hero__info
+
+   &__info {
+   }
+}
+
+
+
+#telegramForm {
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   background-color: lightblue;
+   padding: 30px;
+   border-radius: 15px;
+   box-shadow:  0 0 15px 0 blue;
+   
+
+   max-width: 500px;
+   margin: 30px auto;
+
+
+   input, button {
+      font-family: fantasy;
+      padding: 20px;
+      border-radius: 15px;
+   }
+}
